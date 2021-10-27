@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Nasser-Mohammed
 -  I’m interested in Data Science, Statistics, Machine Learning, and Artificial Intelligence
 -  I’m currently learning Java, Python, JavaScript
--  I’m looking to collaborate on any projects utilizing Java or for front end development 
 -  How to reach me: email: nmoha13@lsu.edu
