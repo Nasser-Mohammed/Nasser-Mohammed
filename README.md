@@ -1,3 +1,3 @@
--  I’m interested in Data Science, Statistics, and Artificial Intelligence, and Computer Vision
+-  I’m interested in Data Science, Statistics, Artificial Intelligence, and Computer Vision
 -  I’m proficient in Python, Java, Machine Learning, Computer Vision, and Applied Mathematics
 -  How to reach me: email: nmoha13@lsu.edu
