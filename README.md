@@ -1,3 +1,3 @@
 -  I’m interested in Nonlinear dynamics/dynamical systems, chaos theory, Ergodic theory, control theory, partial differential equations,  probability theory, Artificial Intelligence, and Computer Vision
--  I’m proficient in Python, Java, C, JavaScript, Matlab, Machine Learning, Computer Vision, Applied Mathematics
+-  I’m proficient in Python, Java, C, JavaScript, Matlab, Machine Learning, Computer Vision, and Mathematical Modelling.
 -  How to reach me: email: nmoha13@lsu.edu
