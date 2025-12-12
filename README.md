@@ -1,3 +1,3 @@
 -  I’m interested in partial differential equations, numerical analysis, control theory, and optimization.
--  I’m proficient in Python, Java, C, JavaScript, Matlab.
+-  I’m proficient in Python, Java, C++, JavaScript, Matlab.
 -  How to reach me: email: nmoha13@lsu.edu
