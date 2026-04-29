@@ -1,2 +1,2 @@
--  I’m interested in partial differential equations, numerical analysis, control theory, and optimization.
--  I’m proficient in Python, Java, C++, JavaScript, Matlab.
+-  I’m interested in cyber-physical systems, controls, state estimation, and sensor fusion.
+-  I’m proficient in Python, Java, C++, C, JavaScript, Matlab.
